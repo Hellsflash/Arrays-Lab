@@ -11,6 +11,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Last K Numbers Sums", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Tripple Sum", "04. Tripple Sum\04. Tripple Sum.csproj", "{495EE2D0-2B84-45E6-96DE-D151C5335BEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Rounding Numbers", "05. Rounding Numbers\05. Rounding Numbers.csproj", "{0F44D7AA-EFAA-4E1A-BC74-987CD68477F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Reverse Array of Strings", "06. Reverse Array of Strings\06. Reverse Array of Strings.csproj", "{80A0B737-6FCD-4BEB-93B4-D488AB517EC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Sum Arrays", "07. Sum Arrays\07. Sum Arrays.csproj", "{E7AB853D-A9FF-4888-A4B0-ECE7D28E8383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Condense Array to Number", "08. Condense Array to Number\08. Condense Array to Number.csproj", "{8020453C-40D9-4E29-B533-A8B56272490E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Extract Middle Elements", "09. Extract Middle Elements\09. Extract Middle Elements.csproj", "{5C23EF0F-D4AF-4AF9-B967-5FA74917A78F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +43,26 @@ Global
 		{495EE2D0-2B84-45E6-96DE-D151C5335BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{495EE2D0-2B84-45E6-96DE-D151C5335BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{495EE2D0-2B84-45E6-96DE-D151C5335BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F44D7AA-EFAA-4E1A-BC74-987CD68477F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F44D7AA-EFAA-4E1A-BC74-987CD68477F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F44D7AA-EFAA-4E1A-BC74-987CD68477F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F44D7AA-EFAA-4E1A-BC74-987CD68477F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A0B737-6FCD-4BEB-93B4-D488AB517EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A0B737-6FCD-4BEB-93B4-D488AB517EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A0B737-6FCD-4BEB-93B4-D488AB517EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A0B737-6FCD-4BEB-93B4-D488AB517EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7AB853D-A9FF-4888-A4B0-ECE7D28E8383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7AB853D-A9FF-4888-A4B0-ECE7D28E8383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7AB853D-A9FF-4888-A4B0-ECE7D28E8383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7AB853D-A9FF-4888-A4B0-ECE7D28E8383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8020453C-40D9-4E29-B533-A8B56272490E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8020453C-40D9-4E29-B533-A8B56272490E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8020453C-40D9-4E29-B533-A8B56272490E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8020453C-40D9-4E29-B533-A8B56272490E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C23EF0F-D4AF-4AF9-B967-5FA74917A78F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C23EF0F-D4AF-4AF9-B967-5FA74917A78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C23EF0F-D4AF-4AF9-B967-5FA74917A78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C23EF0F-D4AF-4AF9-B967-5FA74917A78F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

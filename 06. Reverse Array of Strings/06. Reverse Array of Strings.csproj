@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0F44D7AA-EFAA-4E1A-BC74-987CD68477F3}</ProjectGuid>
+    <ProjectGuid>{80A0B737-6FCD-4BEB-93B4-D488AB517EC3}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_05.Rounding_Numbers</RootNamespace>
-    <AssemblyName>_05.Rounding_Numbers</AssemblyName>
+    <RootNamespace>_06.Reverse_Array_of_Strings</RootNamespace>
+    <AssemblyName>_06.Reverse_Array_of_Strings</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

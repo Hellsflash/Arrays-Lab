@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0F44D7AA-EFAA-4E1A-BC74-987CD68477F3}</ProjectGuid>
+    <ProjectGuid>{E7AB853D-A9FF-4888-A4B0-ECE7D28E8383}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_05.Rounding_Numbers</RootNamespace>
-    <AssemblyName>_05.Rounding_Numbers</AssemblyName>
+    <RootNamespace>_07.Sum_Arrays</RootNamespace>
+    <AssemblyName>_07.Sum_Arrays</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("05. Rounding Numbers")]
+[assembly: AssemblyTitle("08. Condense Array to Number")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("05. Rounding Numbers")]
+[assembly: AssemblyProduct("08. Condense Array to Number")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0f44d7aa-efaa-4e1a-bc74-987cd68477f3")]
+[assembly: Guid("8020453c-40d9-4e29-b533-a8b56272490e")]
 
 // Version information for an assembly consists of the following four values:
 //

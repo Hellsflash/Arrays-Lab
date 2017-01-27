@@ -1,15 +1,20 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _05.Rounding_Numbers
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
+            double[] numbers = Console.ReadLine().Split(' ').Select(double.Parse).ToArray();
+
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                var result = numbers[i];
+                var roundedNumber = Math.Round(numbers[i], MidpointRounding.AwayFromZero);
+                Console.WriteLine($"{result} => {roundedNumber}");
+            }
         }
     }
 }
